@@ -1,9 +1,10 @@
 # Solutions and Notes for Michael Spivak's Calculus
 The goal of this repository is to provide solutions and notes to the problems in Michael Spivak's book *Calculus* 4th edition.
 
-Feel free to contribute! <3
+## Contribute
+Feel free to contribute, the notes are written in LaTex.
 
-# Available Solutions
+## Available Solutions
 Chapter 1 - Basic Properties of Numbers
 - [x] 1
 - [x] 2
