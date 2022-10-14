@@ -4,8 +4,10 @@ The goal of this repository is to provide solutions and notes to the problems in
 ## Contribute
 Feel free to contribute, the notes are written in LaTex.
 
+You can check the available solutions below.
+
 ## Available Solutions
-Chapter 1 - Basic Properties of Numbers
+### Chapter 1 - Basic Properties of Numbers
 - [x] 1
 - [x] 2
 - [ ] 3
