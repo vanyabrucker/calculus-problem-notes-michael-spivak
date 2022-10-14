@@ -1,14 +1,20 @@
 # Solutions and Notes for Michael Spivak's Calculus
 The goal of this repository is to provide solutions and notes to the problems in Michael Spivak's book *Calculus* 4th edition.
 
+You can check the already available notes in the dedicated overview section below. All notes can be found in the PDF.
+
 ## Contribute
 Feel free to contribute, the notes are written in LaTex.
 
-You can check the available solutions below.
-
 ## Available Solutions
 ### Chapter 1 - Basic Properties of Numbers
-- [x] 1
+- [ ] 1
+  - [x] i
+  - [x] ii
+  - [ ] iii
+  - [ ] iv
+  - [ ] v
+  - [ ] vi
 - [x] 2
 - [ ] 3
 - [ ] 4
