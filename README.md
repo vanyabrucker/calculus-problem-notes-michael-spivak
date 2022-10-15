@@ -19,10 +19,10 @@ Feel free to contribute, the notes are written in LaTex.
 - [ ] 3
   - [x] i
   - [x] ii
-  - [ ] iii
+  - [x] iii
   - [ ] iv
-  - [ ] v
-  - [ ] vi
+  - [x] v
+  - [x] vi
 - [ ] 4
 - [ ] 5
 - [ ] 6
