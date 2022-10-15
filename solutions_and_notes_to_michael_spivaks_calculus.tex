@@ -5,7 +5,7 @@
 \renewcommand\theenumi\labelenumi
 \begin{document}
 \title{Solutions and Notes to Michael Spivak's \emph{Calculus}}
-\author{Community}
+\author{A Work of All}
 \date{}
 \maketitle
 \cleardoublepage
@@ -40,5 +40,69 @@ x + y &= y
 \end{split}
 \end{equation*}
 We divide by $(x-y)$, which given $x=y$ equals $0$. We cannot divide by zero.
+
+\subsection{}
+Prove the following.
+
+\subsubsection{}
+$\frac{a}{b}=\frac{ac}{bc}$, if $b,c\neq 0$.
+\begin{equation*}
+\begin{split}
+ab^{-1} &= acb^{-1}c^{-1}\\ 
+ab^{-1} &= ab^{-1}
+\end{split}
+\end{equation*}
+
+\subsubsection{}
+$\frac{a}{b}+ \frac{c}{d}=\frac{ad+bc}{bd}$, if $b,d\neq 0$.
+
+\begin{equation*}
+\begin{split}
+\frac{a}{b}+ \frac{c}{d} &= \frac{ad+bc}{bd}\\
+ad+cb&=ad+cb
+\end{split}
+\end{equation*}
+
+\subsubsection{}
+$(ab)^{-1}= a^{-1}b^{-1}$, if $a,b \neq 0$.
+
+\begin{equation*}
+\begin{split}
+(ab)^{-1} &= a^{-1}b^{-1}\\
+\frac{1}{ab} &= \frac{1}{a}\frac{1}{b}\\
+\frac{1}{ab} &= \frac{1}{ab}
+\end{split}
+\end{equation*}
+
+\subsubsection{}
+
+\subsubsection{}
+
+\begin{equation*}
+\begin{split}
+\frac{\frac{a}{b}}{\frac{c}{d}} &= \frac{ad}{bc} \text{, if } b,c,d \neq 0\\
+\frac{a}{b}\cdot (\frac{c}{d})^{-1} &=  \frac{ad}{bc}\\
+ab^{-1}\cdot c^{-1} \cdot (d^{-1})^{-1} &=  \frac{ad}{bc}\\
+ab^{-1}\cdot c^{-1} \cdot d &=  \frac{ad}{bc}\\
+\frac{ad}{bc} &=  \frac{ad}{bc}
+\end{split}
+\end{equation*}
+
+\subsubsection{}
+If $b,d \neq 0$, then $\frac{a}{b} = \frac{c}{d}$ if and only if $ad=bc$. Also determine when $\frac{a}{b}=\frac{b}{a}$.\\\\
+To prove a theorem of the form \emph{A if and only if B}, you first prove \emph{if A then B}, then you prove \emph{if B then A}, and that's enough to complete the proof.
+
+\emph{if A then B}:
+
+\begin{equation*}
+\begin{split}
+\frac{a}{b} &= \frac{c}{d}\\
+ab^{-1} &= cd^{-1}\\
+ab^{-1}bd &= cd^{-1}bd\\
+ad &= bc
+\end{split}
+\end{equation*}
+
+\emph{If B then A} is given by the inverse direction of the above.
 
 \end{document}
