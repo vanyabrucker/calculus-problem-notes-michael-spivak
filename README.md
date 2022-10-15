@@ -17,6 +17,12 @@ Feel free to contribute, the notes are written in LaTex.
   - [ ] vi
 - [x] 2
 - [ ] 3
+  - [x] i
+  - [x] ii
+  - [ ] iii
+  - [ ] iv
+  - [ ] v
+  - [ ] vi
 - [ ] 4
 - [ ] 5
 - [ ] 6
